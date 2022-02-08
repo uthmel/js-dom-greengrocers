@@ -18,8 +18,8 @@ In this exercise we explore a common scenario in eCommerce, adding and removing 
       - If an item's quantity equals zero it is removed from the cart
   - A user can view the current total in their cart
 
-## Challenge 1
+## Extended 1
 - Add filters to the store ie. filter by item type; when a user clicks a filter they will only see items of that type
 
-## Challenge 2
+## Extended 2
 - Add sorting to the store ie. sort by price or sort alphabetically; when a user clicks sort they will see a sorted list of items
