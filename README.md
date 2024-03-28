@@ -19,8 +19,11 @@ In this exercise we explore a common scenario in eCommerce, adding and removing 
       - If an item's quantity equals zero it is removed from the cart
   - A user can view the current total in their cart
 
-## Extended 1
+## Extension 1
 - Add filters to the store ie. filter by item type; when a user clicks a filter they will only see items of that type
 
-## Extended 2
-- Add sorting to the store ie. sort by price or sort alphabetically; when a user clicks sort they will see a sorted list of items
+## Extension 2
+- Add sorting to the store ie. sort by price or sort alphabetically; when a user clicks sort they will see a sorted list of items. This should work with the filters implemented in extension 1.
+
+## Extension 3
+- Add a form that allows new products to be created for sale. This can either be on the same page, hidden until the user clicks on a button, or a separate page.
